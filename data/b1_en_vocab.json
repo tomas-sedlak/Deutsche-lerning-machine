@@ -1,0 +1,3038 @@
+[
+  {
+    "de": "die Zulassung, -en",
+    "en": "the approval"
+  },
+  {
+    "de": "eine Panne haben",
+    "en": "break down"
+  },
+  {
+    "de": "der Eheberater, -",
+    "en": "the marriage counselor"
+  },
+  {
+    "de": "der Erbe, -n",
+    "en": "the heritage"
+  },
+  {
+    "de": "der Zeuge, -n",
+    "en": "the witness"
+  },
+  {
+    "de": "der Neffe, -n",
+    "en": "the nephew"
+  },
+  {
+    "de": "der Bube, -n",
+    "en": "the boy"
+  },
+  {
+    "de": "der Laie, -n",
+    "en": "the amateur"
+  },
+  {
+    "de": "der Dirigent, -en",
+    "en": "the conductor"
+  },
+  {
+    "de": "der Soldat, -en",
+    "en": "the soldier"
+  },
+  {
+    "de": "der Hase, -n",
+    "en": "the rabbit"
+  },
+  {
+    "de": "der Schimpanse, -n",
+    "en": "the chimp"
+  },
+  {
+    "de": "der Affe, -n",
+    "en": "the monkey"
+  },
+  {
+    "de": "der Ochse, -n",
+    "en": "the ox"
+  },
+  {
+    "de": "der Falke, -n",
+    "en": "the falcon"
+  },
+  {
+    "de": "der Loewe, -n",
+    "en": "the lion"
+  },
+  {
+    "de": "der Beamte, -n",
+    "en": "the official, the clerk"
+  },
+  {
+    "de": "der Bauer, -n",
+    "en": "the farmer"
+  },
+  {
+    "de": "der Architekt, -en",
+    "en": "the architect"
+  },
+  {
+    "de": "das Haustier",
+    "en": "the pet"
+  },
+  {
+    "de": "hinterlassen",
+    "en": "leave"
+  },
+  {
+    "de": "sorgen für",
+    "en": "care for"
+  },
+  {
+    "de": "das Recht",
+    "en": "the right"
+  },
+  {
+    "de": "die Ordnung",
+    "en": "the order"
+  },
+  {
+    "de": "vorzeigen (vorgezeigt)",
+    "en": "show"
+  },
+  {
+    "de": "der Fachmann, ¨ er",
+    "en": "the specialist"
+  },
+  {
+    "de": "das Verbrechen, -",
+    "en": "the crime"
+  },
+  {
+    "de": "beobachten (beobachtet)",
+    "en": "observe"
+  },
+  {
+    "de": "befragen (befragt)",
+    "en": "ask"
+  },
+  {
+    "de": "in Anspruch nehmen",
+    "en": "make use of"
+  },
+  {
+    "de": "Rücksicht nehmen auf",
+    "en": "have regards for"
+  },
+  {
+    "de": "Zugriff haben auf",
+    "en": "have access to"
+  },
+  {
+    "de": "in Auftrag geben",
+    "en": "order"
+  },
+  {
+    "de": "preiswert",
+    "en": "good value"
+  },
+  {
+    "de": "umsonst",
+    "en": "free"
+  },
+  {
+    "de": "registrieren (registriert)",
+    "en": "register"
+  },
+  {
+    "de": "beherbergen (beherbergt)",
+    "en": "house"
+  },
+  {
+    "de": "strömen (geströmt)",
+    "en": "flow, stream"
+  },
+  {
+    "de": "benötigen (benötigt)",
+    "en": "need, require"
+  },
+  {
+    "de": "erscheinen (erschienen)",
+    "en": "appear"
+  },
+  {
+    "de": "rechnen mit (gerechnet)",
+    "en": "calculate on, count on"
+  },
+  {
+    "de": "einzahlen (eingezahlt)",
+    "en": "deposit"
+  },
+  {
+    "de": "zählen zu (gezählt)",
+    "en": "count to"
+  },
+  {
+    "de": "tätigen (getätigt)",
+    "en": "make"
+  },
+  {
+    "de": "eingeben (eingegeben)",
+    "en": "enter"
+  },
+  {
+    "de": "zurechtkommen mit",
+    "en": "cope with, get along\nwith"
+  },
+  {
+    "de": "eröffnen (eröffnet)",
+    "en": "open"
+  },
+  {
+    "de": "abheben (abgehoben)",
+    "en": "withdraw"
+  },
+  {
+    "de": "die Börse, -n",
+    "en": "the stock market"
+  },
+  {
+    "de": "der Pendler, -",
+    "en": "the commuter"
+  },
+  {
+    "de": "die Bescheinigung, -en",
+    "en": "the certificate"
+  },
+  {
+    "de": "s Einwohnermeldeamt",
+    "en": "registration office"
+  },
+  {
+    "de": "die Grundgebühr, -en",
+    "en": "the basic fee"
+  },
+  {
+    "de": "die Überweisung, -en",
+    "en": "the transfer"
+  },
+  {
+    "de": "e Bankverbindung, -en",
+    "en": "the bank account\ninformation"
+  },
+  {
+    "de": "die Geheimzahl",
+    "en": "the PIN number"
+  },
+  {
+    "de": "der TAN-Generator",
+    "en": "the TAN generator"
+  },
+  {
+    "de": "der Staatsbürger, -",
+    "en": "the citizen"
+  },
+  {
+    "de": "erzeugen (erzeugt)",
+    "en": "generate"
+  },
+  {
+    "de": "die Bestätigung, -en",
+    "en": "the confirmation"
+  },
+  {
+    "de": "die Strecke zurücklegen",
+    "en": "cover the distance"
+  },
+  {
+    "de": "vertraulich sein",
+    "en": "be confidential"
+  },
+  {
+    "de": "transferieren (transferiert)",
+    "en": "transfer"
+  },
+  {
+    "de": "bargeldlos",
+    "en": "cashless"
+  },
+  {
+    "de": "das Wertpapier, -e",
+    "en": "the securities"
+  },
+  {
+    "de": "handeln (mit)",
+    "en": "deal in"
+  },
+  {
+    "de": "die Behörde, -n",
+    "en": "the authority"
+  },
+  {
+    "de": "der Wohnsitz",
+    "en": "the residence"
+  },
+  {
+    "de": "die Bankleitzahl, -en",
+    "en": "the bank code"
+  },
+  {
+    "de": "die Kontonummer, -n",
+    "en": "the account number"
+  },
+  {
+    "de": "das Girokonto, -konten",
+    "en": "the check account"
+  },
+  {
+    "de": "im Vergleich zu",
+    "en": "in comparison to"
+  },
+  {
+    "de": "zuschicken (zugeschickt)",
+    "en": "send"
+  },
+  {
+    "de": "sich kompliziert anhören",
+    "en": "sounds complicated"
+  },
+  {
+    "de": "das Gebiet",
+    "en": "the area"
+  },
+  {
+    "de": "die Betriebskantine, -n",
+    "en": "the canteen"
+  },
+  {
+    "de": "die Folge, -n",
+    "en": "the consequence"
+  },
+  {
+    "de": "der Stromausfall, ¨ e",
+    "en": "the power failure"
+  },
+  {
+    "de": "bilden (gebildet)",
+    "en": "to create, shape, make"
+  },
+  {
+    "de": "verbinden (verbunden)",
+    "en": "connect"
+  },
+  {
+    "de": "die Skihütte, -n",
+    "en": "the ski lodge"
+  },
+  {
+    "de": "die Beziehung beginnen",
+    "en": "start the relationship"
+  },
+  {
+    "de": "entdecken (entdeckt)",
+    "en": "discover"
+  },
+  {
+    "de": "der Seitensprung, ¨ e",
+    "en": "the fling, the affair"
+  },
+  {
+    "de": "jemd.D etw.A vorwerfen",
+    "en": "accuse sb. of sth."
+  },
+  {
+    "de": "jemanden betrügen",
+    "en": "cheat sb."
+  },
+  {
+    "de": "untreu sein",
+    "en": "be unfaithful"
+  },
+  {
+    "de": "enttäuscht sein",
+    "en": "disappointed by"
+  },
+  {
+    "de": "benutzen (benutzt)",
+    "en": "use"
+  },
+  {
+    "de": "eher",
+    "en": "rather"
+  },
+  {
+    "de": "verwenden (verwendet)",
+    "en": "use"
+  },
+  {
+    "de": "der Vokalwechsel, -",
+    "en": "the vowel change"
+  },
+  {
+    "de": "der Verbstamm, ¨ e",
+    "en": "the verb root"
+  },
+  {
+    "de": "der Infinitiv",
+    "en": "the infinitive"
+  },
+  {
+    "de": "brennen",
+    "en": "burn"
+  },
+  {
+    "de": "unregelmäßig",
+    "en": "irregular"
+  },
+  {
+    "de": "mischen",
+    "en": "mix"
+  },
+  {
+    "de": "braten",
+    "en": "fry, roast"
+  },
+  {
+    "de": "sich verhalten",
+    "en": "behave"
+  },
+  {
+    "de": "vergleichen",
+    "en": "compare"
+  },
+  {
+    "de": "verzeihen",
+    "en": "forgive"
+  },
+  {
+    "de": "versprechen",
+    "en": "promise"
+  },
+  {
+    "de": "anschließen",
+    "en": "connect, attach"
+  },
+  {
+    "de": "verlassen",
+    "en": "leave"
+  },
+  {
+    "de": "werfen",
+    "en": "throw"
+  },
+  {
+    "de": "das Gasthaus, ¨ er",
+    "en": "the inn"
+  },
+  {
+    "de": "ins Gespräch kommen",
+    "en": "get into a conversation"
+  },
+  {
+    "de": "irgendwie",
+    "en": "somehow"
+  },
+  {
+    "de": "beneiden",
+    "en": "envy"
+  },
+  {
+    "de": "drüben",
+    "en": "over there"
+  },
+  {
+    "de": "rübergehen",
+    "en": "go over"
+  },
+  {
+    "de": "reingehen",
+    "en": "go in"
+  },
+  {
+    "de": "rausgehen",
+    "en": "go out"
+  },
+  {
+    "de": "hingehen",
+    "en": "go there"
+  },
+  {
+    "de": "sich beeilen",
+    "en": "to hurry"
+  },
+  {
+    "de": "e Aufforderung, -en",
+    "en": "request, demaind"
+  },
+  {
+    "de": "Beruhigung",
+    "en": "reassurance"
+  },
+  {
+    "de": "s Betriebsklima",
+    "en": "work climate"
+  },
+  {
+    "de": "überlastet sein",
+    "en": "to be overburdened"
+  },
+  {
+    "de": "r Kader",
+    "en": "cadre"
+  },
+  {
+    "de": "zukaufen",
+    "en": "to buy in addition"
+  },
+  {
+    "de": "gezielt",
+    "en": "focused"
+  },
+  {
+    "de": "stärken/hat gestärkt",
+    "en": "to reinforce"
+  },
+  {
+    "de": "e Gleitzeit",
+    "en": "flexitime"
+  },
+  {
+    "de": "ablehnen",
+    "en": "to reject, decline"
+  },
+  {
+    "de": "e Entscheidungskraft",
+    "en": "decisiveness"
+  },
+  {
+    "de": "schnarchen",
+    "en": "to snore"
+  },
+  {
+    "de": "frech sein",
+    "en": "to be insolent"
+  },
+  {
+    "de": "klug sein",
+    "en": "to be smart, prudent"
+  },
+  {
+    "de": "r Abteilungsleiter, -",
+    "en": "head of department"
+  },
+  {
+    "de": "etwa. durchgehen\nlassen",
+    "en": "be tolerated, overlook"
+  },
+  {
+    "de": "streng sein",
+    "en": "to be strict"
+  },
+  {
+    "de": "r Vorsatz, ¨ e",
+    "en": "intention"
+  },
+  {
+    "de": "weitgehend",
+    "en": "mostly"
+  },
+  {
+    "de": "gründen",
+    "en": "set up, establish"
+  },
+  {
+    "de": "überweisen",
+    "en": "transfer"
+  },
+  {
+    "de": "abstellen",
+    "en": "turn off"
+  },
+  {
+    "de": "zuschauen",
+    "en": "watch"
+  },
+  {
+    "de": "klingeln",
+    "en": "ring the bell"
+  },
+  {
+    "de": "sich ernähren",
+    "en": "eat, live off"
+  },
+  {
+    "de": "löschen",
+    "en": "delete"
+  },
+  {
+    "de": "entwickeln",
+    "en": "develop"
+  },
+  {
+    "de": "ablehnen",
+    "en": "reject"
+  },
+  {
+    "de": "vermitteln",
+    "en": "convey"
+  },
+  {
+    "de": "plaudern",
+    "en": "chat"
+  },
+  {
+    "de": "anbieten",
+    "en": "offer"
+  },
+  {
+    "de": "schätzen",
+    "en": "estimate"
+  },
+  {
+    "de": "verlangen",
+    "en": "require"
+  },
+  {
+    "de": "besorgen",
+    "en": "get"
+  },
+  {
+    "de": "drohen",
+    "en": "threaten"
+  },
+  {
+    "de": "sich einsetzen für",
+    "en": "stand up for"
+  },
+  {
+    "de": "vorkommen",
+    "en": "occur"
+  },
+  {
+    "de": "liefern",
+    "en": "deliver"
+  },
+  {
+    "de": "entdecken",
+    "en": "discover"
+  },
+  {
+    "de": "aufheben (aufgehoben)",
+    "en": "pick up, repeal"
+  },
+  {
+    "de": "pflegen (gepflegt)",
+    "en": "maintain"
+  },
+  {
+    "de": "auf einmal",
+    "en": "at once"
+  },
+  {
+    "de": "das Geräusch, -e",
+    "en": "the sound"
+  },
+  {
+    "de": "lautstark",
+    "en": "noisy"
+  },
+  {
+    "de": "der Hustenanfall, ¨ e",
+    "en": "the cough attack"
+  },
+  {
+    "de": "(mit/in) Bezug auf",
+    "en": "(with/in) reference on"
+  },
+  {
+    "de": "schnarchen (geschnarcht)",
+    "en": "snore"
+  },
+  {
+    "de": "aufwecken (aufgeweckt)",
+    "en": "wake up"
+  },
+  {
+    "de": "weinen (geweint)",
+    "en": "cry"
+  },
+  {
+    "de": "krabbeln (gekrabbelt)",
+    "en": "crawl"
+  },
+  {
+    "de": "das Spielzeug",
+    "en": "the toy"
+  },
+  {
+    "de": "herumtoben",
+    "en": "romp around"
+  },
+  {
+    "de": "fluchen (geflucht)",
+    "en": "swear"
+  },
+  {
+    "de": "ebenso",
+    "en": "as well"
+  },
+  {
+    "de": "grillen (gegrillt)",
+    "en": "barbecue"
+  },
+  {
+    "de": "erhitzen (erhitzt)",
+    "en": "heat"
+  },
+  {
+    "de": "pressen (gepresst)",
+    "en": "press"
+  },
+  {
+    "de": "der Saft, ¨ e",
+    "en": "the juice"
+  },
+  {
+    "de": "frisch zubereitet",
+    "en": "freshly prepared"
+  },
+  {
+    "de": "abschalten (abgeschaltet)",
+    "en": "switch off"
+  },
+  {
+    "de": "warten (e Wartung, -en)",
+    "en": "maintain"
+  },
+  {
+    "de": "e Lebenshaltungskosten",
+    "en": "living expenses"
+  },
+  {
+    "de": "aufgestauter Ärger",
+    "en": "dammed up anger"
+  },
+  {
+    "de": "unterdrücken",
+    "en": "suppress"
+  },
+  {
+    "de": "zwitschern (gezwitschert)",
+    "en": "twitter"
+  },
+  {
+    "de": "das Gewicht",
+    "en": "the weight"
+  },
+  {
+    "de": "das Gepäck",
+    "en": "the luggage"
+  },
+  {
+    "de": "der Hafen, ¨",
+    "en": "the port"
+  },
+  {
+    "de": "ausgebucht sein",
+    "en": "be booked out"
+  },
+  {
+    "de": "großartig",
+    "en": "great"
+  },
+  {
+    "de": "schäbig",
+    "en": "shabby"
+  },
+  {
+    "de": "fleißig",
+    "en": "diligent"
+  },
+  {
+    "de": "den Diebstahl melden",
+    "en": "report the theft"
+  },
+  {
+    "de": "die Maßnahme, -n",
+    "en": "the measure"
+  },
+  {
+    "de": "e Rechnung begleichen",
+    "en": "pay a bill"
+  },
+  {
+    "de": "schonen (geschont)",
+    "en": "spare, protect"
+  },
+  {
+    "de": "die Schwangerschaft",
+    "en": "the pregnancy"
+  },
+  {
+    "de": "Schaden nehmen",
+    "en": "take damage"
+  },
+  {
+    "de": "Pl Fortschritte machen",
+    "en": "make progress"
+  },
+  {
+    "de": "die Geduld",
+    "en": "the patience"
+  },
+  {
+    "de": "die Ausdauer",
+    "en": "the endurance"
+  },
+  {
+    "de": "die Sprechstunde, -n",
+    "en": "the consultation hours"
+  },
+  {
+    "de": "sich weigern (geweigert)",
+    "en": "refuse"
+  },
+  {
+    "de": "genügend",
+    "en": "enough"
+  },
+  {
+    "de": "etw.A ausmachen",
+    "en": "arrange, set up"
+  },
+  {
+    "de": "während",
+    "en": "during"
+  },
+  {
+    "de": "eindeutig",
+    "en": "clearly"
+  },
+  {
+    "de": "etw.Akk gewohnt sein",
+    "en": "be used to sth."
+  },
+  {
+    "de": "das Umfeld",
+    "en": "the environment"
+  },
+  {
+    "de": "gestalten (gestalten)",
+    "en": "shape, organize"
+  },
+  {
+    "de": "von … aus",
+    "en": "from..."
+  },
+  {
+    "de": "die Gondel",
+    "en": "the gondola"
+  },
+  {
+    "de": "einrichten (eingerichtet)",
+    "en": "establish, set"
+  },
+  {
+    "de": "die Lage",
+    "en": "the location"
+  },
+  {
+    "de": "einschätzen",
+    "en": "estimate"
+  },
+  {
+    "de": "Freiraum brauchen",
+    "en": "need freedom"
+  },
+  {
+    "de": "bisher",
+    "en": "so far"
+  },
+  {
+    "de": "eifersüchtig sein",
+    "en": "be jealous"
+  },
+  {
+    "de": "mittlerweile",
+    "en": "meanwhile"
+  },
+  {
+    "de": "das Thermalbad, ¨ er",
+    "en": "the thermal bath"
+  },
+  {
+    "de": "sich entspannen",
+    "en": "relax"
+  },
+  {
+    "de": "Klarheit brauchen über",
+    "en": "need clarity about"
+  },
+  {
+    "de": "der Heiratsantrag",
+    "en": "the marriage proposal"
+  },
+  {
+    "de": "bestehen auf",
+    "en": "insist on"
+  },
+  {
+    "de": "eine Prüfung bestehen",
+    "en": "pass a test"
+  },
+  {
+    "de": "der Freundeskreis",
+    "en": "circle of friends"
+  },
+  {
+    "de": "bewerkstelligen",
+    "en": "do"
+  },
+  {
+    "de": "reagieren auf",
+    "en": "react on/to"
+  },
+  {
+    "de": "die Sorge, -n",
+    "en": "the worry"
+  },
+  {
+    "de": "sichD etw.A borgen",
+    "en": "borrow sth."
+  },
+  {
+    "de": "der Kampf, ¨ e",
+    "en": "the fight"
+  },
+  {
+    "de": "bewerten (e Bewertung)",
+    "en": "evaluate"
+  },
+  {
+    "de": "nachgeben",
+    "en": "give in to"
+  },
+  {
+    "de": "das Gesuch",
+    "en": "the application"
+  },
+  {
+    "de": "wirkungsvoll",
+    "en": "effective"
+  },
+  {
+    "de": "beurteilen (beurteilt)",
+    "en": "judge"
+  },
+  {
+    "de": "annehmen (angenommen)",
+    "en": "assume, accept"
+  },
+  {
+    "de": "die Einleitung",
+    "en": "the introduction"
+  },
+  {
+    "de": "sichD etw.A überlegen",
+    "en": "think sth. over"
+  },
+  {
+    "de": "die Reihenfolge",
+    "en": "the order"
+  },
+  {
+    "de": "begründen (begründet)",
+    "en": "justify"
+  },
+  {
+    "de": "zusammenfassend",
+    "en": "summarizing"
+  },
+  {
+    "de": "genießen (r Genuss)",
+    "en": "enjoy"
+  },
+  {
+    "de": "sich erholen von",
+    "en": "recover from"
+  },
+  {
+    "de": "viele Sorgen haben",
+    "en": "have many worries"
+  },
+  {
+    "de": "der Satzbau",
+    "en": "the sentence structure"
+  },
+  {
+    "de": "gebräuchlich",
+    "en": "in use"
+  },
+  {
+    "de": "die Reihenfolge",
+    "en": "the order"
+  },
+  {
+    "de": "kaum",
+    "en": "hardly"
+  },
+  {
+    "de": "das Zelt, -e",
+    "en": "the tent"
+  },
+  {
+    "de": "die Schuld",
+    "en": "the debt"
+  },
+  {
+    "de": "der Unfall, ¨ e",
+    "en": "the accident"
+  },
+  {
+    "de": "sich verspäten",
+    "en": "be late"
+  },
+  {
+    "de": "die Sitzung, -en",
+    "en": "the session"
+  },
+  {
+    "de": "die Regel, -n",
+    "en": "the rule"
+  },
+  {
+    "de": "die Verbindung, -en",
+    "en": "the connection"
+  },
+  {
+    "de": "mit Bezug auf",
+    "en": "with reference on"
+  },
+  {
+    "de": "der Bart, ¨ e",
+    "en": "the beard"
+  },
+  {
+    "de": "heftig",
+    "en": "fierce"
+  },
+  {
+    "de": "der Planungsfehler, -",
+    "en": "the planning error"
+  },
+  {
+    "de": "das Wechselgeld",
+    "en": "the change"
+  },
+  {
+    "de": "der Obdachlose, -n",
+    "en": "the homeless"
+  },
+  {
+    "de": "vorhin",
+    "en": "earlier"
+  },
+  {
+    "de": "vor kurzem",
+    "en": "recently"
+  },
+  {
+    "de": "vor einiger Zeit",
+    "en": "some time ago"
+  },
+  {
+    "de": "seit einiger Zeit",
+    "en": "since some time"
+  },
+  {
+    "de": "wärmstens empfehlen",
+    "en": "highly recommend"
+  },
+  {
+    "de": "unbekannt",
+    "en": "unknown"
+  },
+  {
+    "de": "Erfahrungen sammeln",
+    "en": "gain experience"
+  },
+  {
+    "de": "kurzentschlossen",
+    "en": "spontaneous"
+  },
+  {
+    "de": "sich auf Deutsch\nverständigen",
+    "en": "communicate on\nGerman"
+  },
+  {
+    "de": "die Wohngemeinschaft",
+    "en": "the shared apartment"
+  },
+  {
+    "de": "frühzeitig",
+    "en": "at an early stage"
+  },
+  {
+    "de": "später nachkommen",
+    "en": "catch up"
+  },
+  {
+    "de": "sich einleben (eingelebt)",
+    "en": "settle down"
+  },
+  {
+    "de": "bereuen (bereut)",
+    "en": "regret"
+  },
+  {
+    "de": "den Schritt machen",
+    "en": "take a step"
+  },
+  {
+    "de": "etwas vorhersagen",
+    "en": "predict sth."
+  },
+  {
+    "de": "leiden an (gelitten)",
+    "en": "suffer from"
+  },
+  {
+    "de": "Diabetes",
+    "en": "diabetes"
+  },
+  {
+    "de": "die Probleme halten an",
+    "en": "the problems continue"
+  },
+  {
+    "de": "e Entwicklungsabteilung",
+    "en": "the development\ndepartment"
+  },
+  {
+    "de": "rügen (gerügt, e Rüge)",
+    "en": "scold, blame"
+  },
+  {
+    "de": "die Infrastruktur",
+    "en": "the infrastructure"
+  },
+  {
+    "de": "der Krieg und der Frieden",
+    "en": "the war and the peace"
+  },
+  {
+    "de": "zerstören (zerstört)",
+    "en": "destroy"
+  },
+  {
+    "de": "die Art und Weise",
+    "en": "the manner"
+  },
+  {
+    "de": "regelmäßig",
+    "en": "regularly"
+  },
+  {
+    "de": "indem",
+    "en": "by"
+  },
+  {
+    "de": "unerwartete Folgen\nhaben",
+    "en": "have unexpected\nconsequences"
+  },
+  {
+    "de": "der Beweise, -e",
+    "en": "the proof"
+  },
+  {
+    "de": "der Richter, -",
+    "en": "the judge"
+  },
+  {
+    "de": "der Beschuldigte, -n",
+    "en": "the accused"
+  },
+  {
+    "de": "verurteilen (verurteilt)",
+    "en": "sentence"
+  },
+  {
+    "de": "obwohl",
+    "en": "although"
+  },
+  {
+    "de": "betonen (betont)",
+    "en": "stress"
+  },
+  {
+    "de": "selbst wenn = auch wenn",
+    "en": "even if"
+  },
+  {
+    "de": "(Pflanzen, Tiere) eingehen",
+    "en": "die (plants, animals)"
+  },
+  {
+    "de": "regelmäßig gießen",
+    "en": "regularly water"
+  },
+  {
+    "de": "wachsen (gewachsen)",
+    "en": "grow"
+  },
+  {
+    "de": "düngen (gedüngt)",
+    "en": "fertilize"
+  },
+  {
+    "de": "die Dachwohnung, -en",
+    "en": "the attic apartment"
+  },
+  {
+    "de": "Benzin sparen (gespart)",
+    "en": "save fuel"
+  },
+  {
+    "de": "recyceln (s Recycling)",
+    "en": "recycle"
+  },
+  {
+    "de": "betreten (betreten)",
+    "en": "enter, access"
+  },
+  {
+    "de": "warnen vor (e Warnung)",
+    "en": "warn"
+  },
+  {
+    "de": "der Rohstoff, -e",
+    "en": "the raw material"
+  },
+  {
+    "de": "zurückgewinnen",
+    "en": "win back"
+  },
+  {
+    "de": "eislaufen (eisgelaufen)",
+    "en": "do ice skating"
+  },
+  {
+    "de": "sich entschuldigen für",
+    "en": "apologize for"
+  },
+  {
+    "de": "installieren (installiert)",
+    "en": "install"
+  },
+  {
+    "de": "abstellen n anstellen",
+    "en": "turn off n turn on"
+  },
+  {
+    "de": "auf einiges verzichten",
+    "en": "abstain from a lot"
+  },
+  {
+    "de": "das Präsens",
+    "en": "the present tense"
+  },
+  {
+    "de": "das Futur",
+    "en": "the future tense"
+  },
+  {
+    "de": "einmalig",
+    "en": "unique"
+  },
+  {
+    "de": "in der Fremde",
+    "en": "abroad, foreign parts"
+  },
+  {
+    "de": "e Kunst",
+    "en": "art"
+  },
+  {
+    "de": "r Leistungsunterricht",
+    "en": "intensive course"
+  },
+  {
+    "de": "Vorkenntnisse haben",
+    "en": "to have previous\nknowwledge"
+  },
+  {
+    "de": "zeichnen",
+    "en": "to draw"
+  },
+  {
+    "de": "malen",
+    "en": "to paint"
+  },
+  {
+    "de": "sich betätigen",
+    "en": "to exercise"
+  },
+  {
+    "de": "körperlich",
+    "en": "physical"
+  },
+  {
+    "de": "ansprechend",
+    "en": "attractive"
+  },
+  {
+    "de": "e Broschüre",
+    "en": "brochure"
+  },
+  {
+    "de": "Fotos aufnehmen",
+    "en": "to take photos"
+  },
+  {
+    "de": "erwerben/hat erworben",
+    "en": "tp purchase"
+  },
+  {
+    "de": "einbinden",
+    "en": "to insert photos"
+  },
+  {
+    "de": "rühren",
+    "en": "to stir"
+  },
+  {
+    "de": "verzehren",
+    "en": "to eat"
+  },
+  {
+    "de": "aufwendig",
+    "en": "costly, extensive"
+  },
+  {
+    "de": "Essen zubereiten",
+    "en": "to prepare food"
+  },
+  {
+    "de": "schlummern",
+    "en": "to slumber"
+  },
+  {
+    "de": "e Wahrnehmung",
+    "en": "perception"
+  },
+  {
+    "de": "umsetzen",
+    "en": "to realize"
+  },
+  {
+    "de": "e Darstellung, -en",
+    "en": "display"
+  },
+  {
+    "de": "vermitteln",
+    "en": "to display, show"
+  },
+  {
+    "de": "r Schatten",
+    "en": "shadow"
+  },
+  {
+    "de": "r Kontrast, -e",
+    "en": "contrast"
+  },
+  {
+    "de": "sich dehnen",
+    "en": "to stretch"
+  },
+  {
+    "de": "fördern",
+    "en": "to foster"
+  },
+  {
+    "de": "r Ausgleich",
+    "en": "balance"
+  },
+  {
+    "de": "schweißtreibend",
+    "en": "exhausting, sweaty"
+  },
+  {
+    "de": "überflüssig",
+    "en": "superfluous"
+  },
+  {
+    "de": "sichtbar",
+    "en": "visible"
+  },
+  {
+    "de": "e Bildbearbeitung",
+    "en": "image processing"
+  },
+  {
+    "de": "aufpeppen",
+    "en": "to pimp, to enhance"
+  },
+  {
+    "de": "e Auflösung",
+    "en": "resolution"
+  },
+  {
+    "de": "pl Grundkenntnisse",
+    "en": "basic knowledge"
+  },
+  {
+    "de": "e Gestaltung",
+    "en": "design, layout"
+  },
+  {
+    "de": "einfügen",
+    "en": "to insert, integrate"
+  },
+  {
+    "de": "sich befassen mit",
+    "en": "to deal with"
+  },
+  {
+    "de": "hauptsächlich",
+    "en": "mainly"
+  },
+  {
+    "de": "Texte verfassen",
+    "en": "to write , to draft texts"
+  },
+  {
+    "de": "sich herantasten",
+    "en": "to approach"
+  },
+  {
+    "de": "e Grundlage, -n",
+    "en": "basics"
+  },
+  {
+    "de": "der Spielerkader",
+    "en": "the player roster"
+  },
+  {
+    "de": "die Meisterschaft, -en",
+    "en": "the championship"
+  },
+  {
+    "de": "der Stürmer, -",
+    "en": "the striker"
+  },
+  {
+    "de": "Stellung nehmen zu",
+    "en": "take a position,\ncomment"
+  },
+  {
+    "de": "die Tatsache, -n",
+    "en": "the fact"
+  },
+  {
+    "de": "der Verein, -e",
+    "en": "the club, the association"
+  },
+  {
+    "de": "Interesse zeigen anD",
+    "en": "show interest in"
+  },
+  {
+    "de": "der Nachwuchsspier, -",
+    "en": "the young player"
+  },
+  {
+    "de": "ersetzen (ersetzt)",
+    "en": "replace"
+  },
+  {
+    "de": "der Ersatzspieler, -",
+    "en": "the replacement players"
+  },
+  {
+    "de": "rechnen mit (damit\ngerechnet haben)",
+    "en": "expect"
+  },
+  {
+    "de": "die Defensive",
+    "en": "the defensive"
+  },
+  {
+    "de": "die Systemumstellung",
+    "en": "the system conversion"
+  },
+  {
+    "de": "etw.N steht an\n(anstehen)",
+    "en": "be due, (be waiting)"
+  },
+  {
+    "de": "ein Tor schießen",
+    "en": "score a goal"
+  },
+  {
+    "de": "verlockend",
+    "en": "tempting, seductive"
+  },
+  {
+    "de": "kompensieren",
+    "en": "compensate for"
+  },
+  {
+    "de": "in der Lage sein",
+    "en": "be able to"
+  },
+  {
+    "de": "umstellen (umgestellt)",
+    "en": "convert, reset"
+  },
+  {
+    "de": "erschwinglich",
+    "en": "affordable"
+  },
+  {
+    "de": "vorzeitig",
+    "en": "in advance"
+  },
+  {
+    "de": "es besteht\nHandlungsbedarf",
+    "en": "there is a need for\naction"
+  },
+  {
+    "de": "nützlich sein (r Nutzen)",
+    "en": "be useful"
+  },
+  {
+    "de": "das Fernstudium",
+    "en": "the distance learning"
+  },
+  {
+    "de": "Ich bin überzeugt, …",
+    "en": "I’m sure..."
+  },
+  {
+    "de": "Hochwasser führen",
+    "en": "be in flood"
+  },
+  {
+    "de": "anspruchsvoll",
+    "en": "challenging"
+  },
+  {
+    "de": "schwerwiegend",
+    "en": "severe, heavy"
+  },
+  {
+    "de": "pausieren",
+    "en": "pause"
+  },
+  {
+    "de": "Pleite gehen",
+    "en": "go broke"
+  },
+  {
+    "de": "einen Kredit aufnehmen",
+    "en": "take out a loan"
+  },
+  {
+    "de": "das Kerosin",
+    "en": "the kerosene"
+  },
+  {
+    "de": "mühelos",
+    "en": "effortless"
+  },
+  {
+    "de": "das Bahngleis, -e",
+    "en": "the railroad track"
+  },
+  {
+    "de": "die Gewerbesteuer",
+    "en": "the trade tax"
+  },
+  {
+    "de": "erstmal",
+    "en": "for now"
+  },
+  {
+    "de": "entwickeln\n(e Entwicklung)",
+    "en": "develop"
+  },
+  {
+    "de": "der Vorgang, ¨ e",
+    "en": "the operation"
+  },
+  {
+    "de": "der Gegensatz, ¨ e",
+    "en": "the contrast"
+  },
+  {
+    "de": "wesentlich",
+    "en": "essential"
+  },
+  {
+    "de": "bestätigen (e Bestätigung)",
+    "en": "confirm"
+  },
+  {
+    "de": "das Taschengeld",
+    "en": "the pocket money"
+  },
+  {
+    "de": "die Handlung, -en",
+    "en": "the action"
+  },
+  {
+    "de": "aufgrund",
+    "en": "due to"
+  },
+  {
+    "de": "ausfallen (ausgefallen)",
+    "en": "be canceled, fail"
+  },
+  {
+    "de": "e Abreise n e Anreise",
+    "en": "departure n arrival"
+  },
+  {
+    "de": "der Ausflug, ¨ e",
+    "en": "the trip"
+  },
+  {
+    "de": "depressiv sein",
+    "en": "be depressed"
+  },
+  {
+    "de": "jmd.D böse sein",
+    "en": "be evil"
+  },
+  {
+    "de": "die Werkstatt, ¨ en",
+    "en": "the workshop"
+  },
+  {
+    "de": "jmd.A anzeigen",
+    "en": "inform against sb."
+  },
+  {
+    "de": "die Leistung, -en",
+    "en": "the performance"
+  },
+  {
+    "de": "der Termin steht",
+    "en": "the date is fix"
+  },
+  {
+    "de": "e Sitzung",
+    "en": "session"
+  },
+  {
+    "de": "mangelnde Beteiligung",
+    "en": "lacking participation"
+  },
+  {
+    "de": "vorbringen",
+    "en": "to express"
+  },
+  {
+    "de": "Das ist mir egal.",
+    "en": "I don’t care."
+  },
+  {
+    "de": "verunsichert sein",
+    "en": "to make someone\ninsecure"
+  },
+  {
+    "de": "Schluss machen mit",
+    "en": "to end"
+  },
+  {
+    "de": "e Pubertät",
+    "en": "puberty"
+  },
+  {
+    "de": "Akne haben",
+    "en": "to suffer from acne"
+  },
+  {
+    "de": "sich dem Ende zuneigen",
+    "en": "to draw to an end"
+  },
+  {
+    "de": "bereuen - hat bereut",
+    "en": "to regret"
+  },
+  {
+    "de": "r Kummer",
+    "en": "sorrow, trouble"
+  },
+  {
+    "de": "e Sorge, -n",
+    "en": "sprrow"
+  },
+  {
+    "de": "am Horizont",
+    "en": "on the horizon"
+  },
+  {
+    "de": "pl Angehörigen",
+    "en": "partisans"
+  },
+  {
+    "de": "gültig sein",
+    "en": "to enter into force"
+  },
+  {
+    "de": "anklicken",
+    "en": "to ckick"
+  },
+  {
+    "de": "r Anschlusszug",
+    "en": "connecting train"
+  },
+  {
+    "de": "ein erfülltes Leben",
+    "en": "a fulfilled life"
+  },
+  {
+    "de": "Freude bereiten",
+    "en": "bring joy"
+  },
+  {
+    "de": "die gegebene Situation",
+    "en": "the given situation"
+  },
+  {
+    "de": "ausgewogen sein",
+    "en": "be balanced"
+  },
+  {
+    "de": "das Verhältnis",
+    "en": "the ratio"
+  },
+  {
+    "de": "beziehungsweise",
+    "en": "respectively"
+  },
+  {
+    "de": "beitragen zu (r Beitrag)",
+    "en": "contribute to"
+  },
+  {
+    "de": "der nachfolgende Text",
+    "en": "the following text"
+  },
+  {
+    "de": "eine Aussage treffen",
+    "en": "make a statement"
+  },
+  {
+    "de": "auslegen (ausgelegt)",
+    "en": "lay out, disburse"
+  },
+  {
+    "de": "Pl Beschäftigten",
+    "en": "employees"
+  },
+  {
+    "de": "verfügen über",
+    "en": "dispose of"
+  },
+  {
+    "de": "seine Freizeit opfern",
+    "en": "sacrifice his spare time"
+  },
+  {
+    "de": "zwingen (gezwungen,\nr Zwang, ¨ e)",
+    "en": "force"
+  },
+  {
+    "de": "erreichbar sein",
+    "en": "be accessible"
+  },
+  {
+    "de": "rund um die Uhr",
+    "en": "around the clock"
+  },
+  {
+    "de": "die Belegschaft",
+    "en": "the workforce"
+  },
+  {
+    "de": "beeinflussen (Einfluss\nnehmen auf)",
+    "en": "influence, affect"
+  },
+  {
+    "de": "weitgehend gleich sein",
+    "en": "largely be the same as"
+  },
+  {
+    "de": "Pl Rahmenbedingungen",
+    "en": "the circumstances"
+  },
+  {
+    "de": "geeignete Maßnahmen",
+    "en": "appropriate measures"
+  },
+  {
+    "de": "hauptverantwortlich",
+    "en": "mainly responsible"
+  },
+  {
+    "de": "sich anbahnen",
+    "en": "be in the making, loom"
+  },
+  {
+    "de": "aufgefordert sein zu …",
+    "en": "be prompted to..."
+  },
+  {
+    "de": "der Aggressor, -en",
+    "en": "the aggressor"
+  },
+  {
+    "de": "jmd.A zurechtweisen\n(zurechtgewiesen)",
+    "en": "rebuke sb."
+  },
+  {
+    "de": "die Einnahmen erhöhen",
+    "en": "the revenue increase"
+  },
+  {
+    "de": "in Kauf nehmen",
+    "en": "accept, take"
+  },
+  {
+    "de": "entgegenwirken",
+    "en": "counteract"
+  },
+  {
+    "de": "Energie tanken",
+    "en": "recharge your batteries"
+  },
+  {
+    "de": "Mitarbeiter an sich binden",
+    "en": "bind employees to\noneself"
+  },
+  {
+    "de": "zur Folge haben",
+    "en": "entail, result in"
+  },
+  {
+    "de": "zu kurz kommen",
+    "en": "come off badly"
+  },
+  {
+    "de": "sich nicht auswirken auf",
+    "en": "have no effect on"
+  },
+  {
+    "de": "den Schwerpunkt legen\nauf",
+    "en": "set the focus on"
+  },
+  {
+    "de": "die Belastung, -en",
+    "en": "the load"
+  },
+  {
+    "de": "die Gleitzeit",
+    "en": "the flexitime"
+  },
+  {
+    "de": "die Fluktuation",
+    "en": "the fluctuation"
+  },
+  {
+    "de": "die Effizienz",
+    "en": "the efficiency"
+  },
+  {
+    "de": "die Zulage, -n",
+    "en": "the allowance"
+  },
+  {
+    "de": "die Vereinbarkeit",
+    "en": "the compatibility"
+  },
+  {
+    "de": "der Umstand, ¨ e",
+    "en": "the fact"
+  },
+  {
+    "de": "abbiegen (abgebogen)",
+    "en": "turn, bend"
+  },
+  {
+    "de": "die Kreuzung, -en",
+    "en": "the crossing"
+  },
+  {
+    "de": "sich Sorgen machen",
+    "en": "worry"
+  },
+  {
+    "de": "umformen (umgeformt)",
+    "en": "transform"
+  },
+  {
+    "de": "der Bürgermeister",
+    "en": "the mayor"
+  },
+  {
+    "de": "der Gesprächsanlass",
+    "en": "the occasion for talking"
+  },
+  {
+    "de": "vielfältige Erwartungen",
+    "en": "diverse expectations"
+  },
+  {
+    "de": "Maßnahmen ergreifen",
+    "en": "take measures"
+  },
+  {
+    "de": "der Stadtrat",
+    "en": "the city council"
+  },
+  {
+    "de": "in Angriff nehmen",
+    "en": "attempt"
+  },
+  {
+    "de": "die Abschiedsrede, -n",
+    "en": "the farewell speech"
+  },
+  {
+    "de": "die\nAutobahnanbindung",
+    "en": "the freeway access"
+  },
+  {
+    "de": "beschließen\n(r Beschluss, beschlossen)",
+    "en": "decide"
+  },
+  {
+    "de": "gestiegene Einnahmen",
+    "en": "increased revenue"
+  },
+  {
+    "de": "ermöglichen (ermöglicht)",
+    "en": "enable"
+  },
+  {
+    "de": "sich ansiedeln",
+    "en": "settle"
+  },
+  {
+    "de": "der Feinstaub",
+    "en": "the fine dust"
+  },
+  {
+    "de": "der Grenzwert, -e",
+    "en": "the limit"
+  },
+  {
+    "de": "der Grüngürtel",
+    "en": "the green belt"
+  },
+  {
+    "de": "der Lärm",
+    "en": "the noise"
+  },
+  {
+    "de": "e Belastung (belasten)",
+    "en": "the burden"
+  },
+  {
+    "de": "verringern (verringert)",
+    "en": "reduce"
+  },
+  {
+    "de": "die Hochschule, -n",
+    "en": "the college"
+  },
+  {
+    "de": "gründen (gegründet)",
+    "en": "establish, found"
+  },
+  {
+    "de": "e Geisteswissenschaften",
+    "en": "the humanities"
+  },
+  {
+    "de": "zur Verfügung stehen",
+    "en": "be available"
+  },
+  {
+    "de": "im Argen liegen",
+    "en": "be at sixes and sevens"
+  },
+  {
+    "de": "ins Leben rufen",
+    "en": "initiate"
+  },
+  {
+    "de": "(ein Maß) überschreiten",
+    "en": "exceed"
+  },
+  {
+    "de": "einen Handel eingehen",
+    "en": "trade"
+  },
+  {
+    "de": "das Anliegen",
+    "en": "the concern"
+  },
+  {
+    "de": "ein Verbot erteilen",
+    "en": "ban, forbid"
+  },
+  {
+    "de": "zur Verfügung stellen",
+    "en": "make available"
+  },
+  {
+    "de": "verhandeln (verhandelt)",
+    "en": "negotiate"
+  },
+  {
+    "de": "entsprechend",
+    "en": "in accordance with"
+  },
+  {
+    "de": "die Feuerwehr",
+    "en": "the fire brigade"
+  },
+  {
+    "de": "die Neuausrichtung",
+    "en": "the realignment"
+  },
+  {
+    "de": "behindern (behindert)",
+    "en": "interfere, hinder"
+  },
+  {
+    "de": "mithilfe G",
+    "en": "using"
+  },
+  {
+    "de": "die DNA",
+    "en": "the DNA"
+  },
+  {
+    "de": "die Spur, -en",
+    "en": "the track"
+  },
+  {
+    "de": "die Analyse, -n",
+    "en": "the analysis"
+  },
+  {
+    "de": "der Mörder, -",
+    "en": "the murderer"
+  },
+  {
+    "de": "fassen (gefasst)",
+    "en": "catch, grasp"
+  },
+  {
+    "de": "verschlossen sein",
+    "en": "be closed"
+  },
+  {
+    "de": "der Einbrecher, -",
+    "en": "the burglar"
+  },
+  {
+    "de": "bewachen (bewacht)",
+    "en": "guard"
+  },
+  {
+    "de": "der Beweis, -e",
+    "en": "the proof"
+  },
+  {
+    "de": "Anklage erheben",
+    "en": "press charges"
+  },
+  {
+    "de": "austauschen\n(r Austausch)",
+    "en": "exchange, replace"
+  },
+  {
+    "de": "frieren (gefroren)",
+    "en": "freeze"
+  },
+  {
+    "de": "sperren (gesperrt)",
+    "en": "lock"
+  },
+  {
+    "de": "der Weizen",
+    "en": "the wheat"
+  },
+  {
+    "de": "ernten (geerntet)",
+    "en": "harvest"
+  },
+  {
+    "de": "dringend",
+    "en": "urgent"
+  },
+  {
+    "de": "rechtzeitig",
+    "en": "in time"
+  },
+  {
+    "de": "die Büroeinrichtung",
+    "en": "the office equipment"
+  },
+  {
+    "de": "den Inhalt wiedergeben",
+    "en": "describe the content"
+  },
+  {
+    "de": "der überwiegende Teil",
+    "en": "the vast majority"
+  },
+  {
+    "de": "der Indikativ",
+    "en": "the indicative"
+  },
+  {
+    "de": "umgangssprachlich",
+    "en": "colloquially"
+  },
+  {
+    "de": "häufig verwenden",
+    "en": "use often"
+  },
+  {
+    "de": "hohe Schulden haben",
+    "en": "have high debts"
+  },
+  {
+    "de": "die Währungskrise, -n",
+    "en": "the currency crisis"
+  },
+  {
+    "de": "verschwinden\n(verschwunden)",
+    "en": "disappear"
+  },
+  {
+    "de": "die Steuerlast tragen",
+    "en": "burden the tax load"
+  },
+  {
+    "de": "gutmütig sein",
+    "en": "be good natured"
+  },
+  {
+    "de": "vertrauen (vertraut)",
+    "en": "trust"
+  },
+  {
+    "de": "die Rettung\n(rettet, gerettet)",
+    "en": "the rescue"
+  },
+  {
+    "de": "dem Gesetz entsprechen\n(entsprochen)",
+    "en": "suit the law"
+  },
+  {
+    "de": "das Grundgesetz",
+    "en": "the basic law"
+  },
+  {
+    "de": "sichD Zeit lassen mit",
+    "en": "take plenty of time"
+  },
+  {
+    "de": "der Richter, -",
+    "en": "the judge"
+  },
+  {
+    "de": "das Urteil, -e",
+    "en": "the ruling"
+  },
+  {
+    "de": "r/e Wissenschaftler/in",
+    "en": "the researcher"
+  },
+  {
+    "de": "die Geburtenrate, -n",
+    "en": "the birth rate"
+  },
+  {
+    "de": "gesellschaftlich",
+    "en": "social"
+  },
+  {
+    "de": "die Einstellung (zu)",
+    "en": "the attitude (toward)"
+  },
+  {
+    "de": "die Elternschaft",
+    "en": "the parenthood"
+  },
+  {
+    "de": "deutlich",
+    "en": "clear"
+  },
+  {
+    "de": "heutzutage",
+    "en": "today"
+  },
+  {
+    "de": "kriegen (gekriegt)",
+    "en": "have, get"
+  },
+  {
+    "de": "die Anerkennung",
+    "en": "the appreciation,\nthe recognition"
+  },
+  {
+    "de": "niedrige Löhne zahlen",
+    "en": "pay low wages"
+  },
+  {
+    "de": "sich leisten können",
+    "en": "afford"
+  },
+  {
+    "de": "die derzeitige\nEntwicklung",
+    "en": "the current\ndevelopment"
+  },
+  {
+    "de": "demografisch",
+    "en": "demographic"
+  },
+  {
+    "de": "der Wohlstand",
+    "en": "the prosperity"
+  },
+  {
+    "de": "die Unterstützung",
+    "en": "the support"
+  },
+  {
+    "de": "ausreichend",
+    "en": "sufficient"
+  },
+  {
+    "de": "entstammen",
+    "en": "come from"
+  },
+  {
+    "de": "der Antrag, ¨ e",
+    "en": "the application"
+  },
+  {
+    "de": "der Rettungswagen",
+    "en": "the ambulance"
+  },
+  {
+    "de": "bedrohlich sein",
+    "en": "be threatening"
+  },
+  {
+    "de": "das Erdbeben, -",
+    "en": "the earthquake"
+  },
+  {
+    "de": "unschuldig sein",
+    "en": "be innocent"
+  },
+  {
+    "de": "das Gefängnis, -se",
+    "en": "the prison"
+  },
+  {
+    "de": "die Haftstrafe, -n",
+    "en": "the prison sentence"
+  },
+  {
+    "de": "verurteilen (verurteilt)",
+    "en": "sentence"
+  },
+  {
+    "de": "schätzungsweise",
+    "en": "estimated"
+  },
+  {
+    "de": "enttäuschend",
+    "en": "disappointing"
+  },
+  {
+    "de": "begrenzt",
+    "en": "limited"
+  },
+  {
+    "de": "vollständig",
+    "en": "complete"
+  },
+  {
+    "de": "bevorzugt",
+    "en": "preferred"
+  },
+  {
+    "de": "zunehmend",
+    "en": "increasingly"
+  },
+  {
+    "de": "störend",
+    "en": "disturbing"
+  },
+  {
+    "de": "stabil",
+    "en": "stable"
+  },
+  {
+    "de": "notwendig",
+    "en": "necessary"
+  },
+  {
+    "de": "aussichtslos",
+    "en": "hopeless"
+  },
+  {
+    "de": "kriminell",
+    "en": "criminal"
+  },
+  {
+    "de": "zuverlässig",
+    "en": "reliable"
+  },
+  {
+    "de": "kreativ",
+    "en": "creative"
+  },
+  {
+    "de": "verzweifelt",
+    "en": "desperate"
+  },
+  {
+    "de": "neutral",
+    "en": "neutral"
+  },
+  {
+    "de": "erschöpft",
+    "en": "exhausted"
+  },
+  {
+    "de": "subjektiver Gebrauch",
+    "en": "subjective use"
+  },
+  {
+    "de": "e Bedienungsanleitung",
+    "en": "the operating\ninstructions"
+  },
+  {
+    "de": "eher unwahrscheinlich\nsein",
+    "en": "be unlikely"
+  },
+  {
+    "de": "den Termin einhalten",
+    "en": "keep an appointment"
+  },
+  {
+    "de": "auf der gleichen\nWellenlänge liegen",
+    "en": "be on the same\nwavelength"
+  },
+  {
+    "de": "der Finanzvorstand, ¨ e",
+    "en": "the finance executive\ncommittee"
+  },
+  {
+    "de": "den Bericht anzweifeln",
+    "en": "doubt the report"
+  },
+  {
+    "de": "e Präsentation erstellen",
+    "en": "create a presentation"
+  },
+  {
+    "de": "möglicherweise",
+    "en": "may"
+  },
+  {
+    "de": "Kontakte knüpfen",
+    "en": "establish contacts"
+  },
+  {
+    "de": "eine undichte Stelle",
+    "en": "a leak"
+  },
+  {
+    "de": "die Unterseite",
+    "en": "the bottom"
+  },
+  {
+    "de": "der Öltank, -s",
+    "en": "the oil tank"
+  },
+  {
+    "de": "sich befinden (befunden)",
+    "en": "be located, is"
+  },
+  {
+    "de": "unter Umständen",
+    "en": "under the circumstances"
+  },
+  {
+    "de": "auf keinen Fall",
+    "en": "definitely not"
+  },
+  {
+    "de": "der Tresor",
+    "en": "the safe"
+  },
+  {
+    "de": "munkeln (gemunkelt)",
+    "en": "rumor"
+  },
+  {
+    "de": "sichD angeln (geangelt)",
+    "en": "fish"
+  },
+  {
+    "de": "zumindest",
+    "en": "at least"
+  },
+  {
+    "de": "behaupten (behauptet)",
+    "en": "claim"
+  },
+  {
+    "de": "der Räuber, -",
+    "en": "the robber"
+  },
+  {
+    "de": "lange im Voraus",
+    "en": "long in advance"
+  },
+  {
+    "de": "der Täter, -",
+    "en": "the perpetrator"
+  },
+  {
+    "de": "das Diebesgut",
+    "en": "the stolen goods"
+  },
+  {
+    "de": "der Abnehmer, -",
+    "en": "the customer"
+  },
+  {
+    "de": "der Zeuge, -n",
+    "en": "the witness"
+  },
+  {
+    "de": "jmd.D überführen",
+    "en": "convict sb."
+  },
+  {
+    "de": "es besteht eine Chance",
+    "en": "there is a chance"
+  },
+  {
+    "de": "das Fahndungsfoto, -s",
+    "en": "the photo of a wanted\nperson"
+  },
+  {
+    "de": "der Ganove, -n",
+    "en": "the crook"
+  },
+  {
+    "de": "das Kunstwerk, -e",
+    "en": "the work of art"
+  },
+  {
+    "de": "der Informant, -en",
+    "en": "the informant"
+  },
+  {
+    "de": "außer Frage stehen",
+    "en": "is out of the question"
+  },
+  {
+    "de": "herausfinden",
+    "en": "find out"
+  },
+  {
+    "de": "das Einbruchswerkzeug",
+    "en": "the burglary tool"
+  },
+  {
+    "de": "stammen von/aus",
+    "en": "come by/off"
+  },
+  {
+    "de": "eine Auffassung\nvertreten",
+    "en": "take a view"
+  },
+  {
+    "de": "der Regierungssprecher",
+    "en": "the government\nspokesman"
+  },
+  {
+    "de": "die Mitteilung, -en",
+    "en": "the report"
+  },
+  {
+    "de": "vertraut sein inD",
+    "en": "be familiar, be well up in"
+  },
+  {
+    "de": "etw.G unwürdig sein",
+    "en": "be unworthy"
+  },
+  {
+    "de": "enthalten sein inD",
+    "en": "be included in"
+  },
+  {
+    "de": "jmd.D unangenehm sein",
+    "en": "be unpleasant"
+  },
+  {
+    "de": "entmutigt sein durch",
+    "en": "be discouraged by"
+  },
+  {
+    "de": "jmd.D geholfen sein mit",
+    "en": "be helped with"
+  },
+  {
+    "de": "jmd.D zuwider sein",
+    "en": "dislike, contrary to"
+  },
+  {
+    "de": "jmd.D bekannt sein",
+    "en": "be known, be renowned"
+  },
+  {
+    "de": "jmd.D böse sein",
+    "en": "be evil"
+  },
+  {
+    "de": "gut/schlecht gelaunt\nsein",
+    "en": "be in a good/bad mood"
+  },
+  {
+    "de": "süchtig sein nach",
+    "en": "be addicted to"
+  },
+  {
+    "de": "versorgt sein mit",
+    "en": "supplied with"
+  },
+  {
+    "de": "jmd.D willkommen sein",
+    "en": "be welcome"
+  },
+  {
+    "de": "vorbereitet sein auf A",
+    "en": "be prepared"
+  },
+  {
+    "de": "etw.G unkundig sein",
+    "en": "be illiterate"
+  },
+  {
+    "de": "begeistert sein von",
+    "en": "be amazed by"
+  },
+  {
+    "de": "jmd.D ähnlich sein",
+    "en": "be similar, look alike"
+  },
+  {
+    "de": "jmd.D peinlich sein",
+    "en": "be embarrassed"
+  },
+  {
+    "de": "zuständig sein für",
+    "en": "be responsible for"
+  },
+  {
+    "de": "jmd.D lästig sein",
+    "en": "be annoying"
+  },
+  {
+    "de": "machtlos sein gegen",
+    "en": "be powerless against"
+  },
+  {
+    "de": "erfahren sein inD",
+    "en": "be experienced in"
+  },
+  {
+    "de": "ermutigt sein durch",
+    "en": "be encouraged by"
+  },
+  {
+    "de": "enttäuscht sein von",
+    "en": "disappointed by"
+  },
+  {
+    "de": "ausgerüstet sein mit",
+    "en": "be equipped with"
+  },
+  {
+    "de": "zugelassen sein für/in",
+    "en": "be approved for"
+  },
+  {
+    "de": "beeindruckt sein von",
+    "en": "be impressed by"
+  },
+  {
+    "de": "jmd.D bewusst sein",
+    "en": "be aware"
+  },
+  {
+    "de": "jmd.D gewidmet sein",
+    "en": "be dedicated to"
+  },
+  {
+    "de": "etw.A los sein",
+    "en": "sth. is going on"
+  },
+  {
+    "de": "etw.A gewohnt sein",
+    "en": "be used to sth."
+  },
+  {
+    "de": "verbunden sein mit",
+    "en": "be associated with"
+  },
+  {
+    "de": "etw.G überdrüssig sein",
+    "en": "weary of sth."
+  },
+  {
+    "de": "angewiesen sein auf",
+    "en": "depend on sth."
+  },
+  {
+    "de": "einverstanden sein mit",
+    "en": "agree with"
+  },
+  {
+    "de": "erhältlich sein (in/auf D)",
+    "en": "be available"
+  },
+  {
+    "de": "deswegen",
+    "en": "therefore, hence"
+  },
+  {
+    "de": "die Schöntuerei",
+    "en": "flattery"
+  },
+  {
+    "de": "der Vorwurf, ¨ e",
+    "en": "accusation"
+  },
+  {
+    "de": "im Umgang mit",
+    "en": "in dealing with,\nin handling"
+  },
+  {
+    "de": "die Waffe, -n",
+    "en": "weapon"
+  },
+  {
+    "de": "der Patzer, -",
+    "en": "goof, blunder"
+  },
+  {
+    "de": "der Bitterstoff, -e",
+    "en": "bitter principle"
+  },
+  {
+    "de": "der Misserfolg, -e",
+    "en": "the failure"
+  },
+  {
+    "de": "der Aufschub, ¨ e",
+    "en": "the delay"
+  },
+  {
+    "de": "korrupt sein",
+    "en": "be corrupt"
+  },
+  {
+    "de": "das Präsidentenamt",
+    "en": "the presidential office"
+  },
+  {
+    "de": "die Aufführung, -en",
+    "en": "the performance"
+  },
+  {
+    "de": "die Kundenakquise",
+    "en": "the customer\nacquisition"
+  },
+  {
+    "de": "der Flüchtling, -e",
+    "en": "the fugitive"
+  },
+  {
+    "de": "das Notwendigste",
+    "en": "the essentials"
+  },
+  {
+    "de": "der Kontrollanruf, -e",
+    "en": "the control call"
+  },
+  {
+    "de": "umherirren",
+    "en": "wander"
+  },
+  {
+    "de": "der Passant, -en",
+    "en": "the passer-by"
+  },
+  {
+    "de": "der Kälteeinbruch",
+    "en": "the cold snap"
+  },
+  {
+    "de": "der Einbruch",
+    "en": "the burglary"
+  },
+  {
+    "de": "die Schlagfertigkeit",
+    "en": "the repartee"
+  },
+  {
+    "de": "nagelneu",
+    "en": "brand new"
+  },
+  {
+    "de": "r Nebelscheinwerfer, -",
+    "en": "the fog lights"
+  },
+  {
+    "de": "der Gesundheitszustand",
+    "en": "the state of health"
+  },
+  {
+    "de": "verstorben sein",
+    "en": "be deceased"
+  },
+  {
+    "de": "das Gerücht, -e",
+    "en": "the rumor"
+  },
+  {
+    "de": "außereheliche\nLiebesaffäre",
+    "en": "extramarital affair"
+  },
+  {
+    "de": "der Forscher, -",
+    "en": "the researcher"
+  },
+  {
+    "de": "die Drohung, -en",
+    "en": "the threat"
+  },
+  {
+    "de": "die Konkurrenz",
+    "en": "the competition"
+  },
+  {
+    "de": "verklagen (verklagt)",
+    "en": "sue"
+  },
+  {
+    "de": "s\nSondereinsatzkommando",
+    "en": "the special forces"
+  },
+  {
+    "de": "gewaltbereit",
+    "en": "willing to resort to\nviolence"
+  },
+  {
+    "de": "der Straftäter, -",
+    "en": "the offender"
+  },
+  {
+    "de": "der Winterreifen, -",
+    "en": "the winter tires"
+  },
+  {
+    "de": "die Meckerei",
+    "en": "the nagging"
+  },
+  {
+    "de": "errichten",
+    "en": "to construct"
+  },
+  {
+    "de": "e Gülle",
+    "en": "manure"
+  },
+  {
+    "de": "r Mist",
+    "en": "waste"
+  },
+  {
+    "de": "r Kompost",
+    "en": "compost"
+  },
+  {
+    "de": "r Vorgang",
+    "en": "procedure"
+  },
+  {
+    "de": "aufbrechen",
+    "en": "to break up, to open"
+  },
+  {
+    "de": "r Nährstoff, -e",
+    "en": "nutrients"
+  },
+  {
+    "de": "e Biomasse",
+    "en": "biomass"
+  },
+  {
+    "de": "e Grube",
+    "en": "pit"
+  },
+  {
+    "de": "einbringen",
+    "en": "to dump"
+  },
+  {
+    "de": "e Fermentierung",
+    "en": "fermentation"
+  },
+  {
+    "de": "speichern",
+    "en": "to save"
+  },
+  {
+    "de": "s Substrat",
+    "en": "substrate"
+  },
+  {
+    "de": "r Gehalt",
+    "en": "amount, volume"
+  },
+  {
+    "de": "erzeugen",
+    "en": "to generate"
+  },
+  {
+    "de": "rühren",
+    "en": "to stir"
+  },
+  {
+    "de": "den Bedarf decken",
+    "en": "to cover a demand"
+  },
+  {
+    "de": "zum Einsatz kommen",
+    "en": "to be in use"
+  },
+  {
+    "de": "gewonnen werde",
+    "en": "to generate, produce"
+  },
+  {
+    "de": "s Stromkraftwerk",
+    "en": "electrical power plant"
+  },
+  {
+    "de": "heizen",
+    "en": "to heat"
+  },
+  {
+    "de": "schonend",
+    "en": "sustainable"
+  },
+  {
+    "de": "betreiben",
+    "en": "to run something"
+  },
+  {
+    "de": "umsteigen auf",
+    "en": "to switch to"
+  },
+  {
+    "de": "fossile Brennstoffe",
+    "en": "fossil fuel"
+  },
+  {
+    "de": "r Gemeinderat",
+    "en": "city council"
+  },
+  {
+    "de": "zustimmen",
+    "en": "to agree"
+  },
+  {
+    "de": "Biomüll fällt an",
+    "en": "biological waste is\nproduced"
+  },
+  {
+    "de": "anfallende Kosten",
+    "en": "incurring cost"
+  },
+  {
+    "de": "r Zugang",
+    "en": "access"
+  },
+  {
+    "de": "e Haube, -n",
+    "en": "cover"
+  },
+  {
+    "de": "e Vergärung",
+    "en": "fermentation"
+  },
+  {
+    "de": "umwälzen",
+    "en": "to mix, stir"
+  },
+  {
+    "de": "sich ansammeln",
+    "en": "to acculumate"
+  },
+  {
+    "de": "in der Regel",
+    "en": "usually, normally"
+  },
+  {
+    "de": "e Stromleistung",
+    "en": "electrical power plant"
+  },
+  {
+    "de": "wirtschaftlich sein",
+    "en": "to be economical"
+  },
+  {
+    "de": "einspeisen",
+    "en": "to feed in"
+  },
+  {
+    "de": "weiterleiten",
+    "en": "to transfer, relay"
+  },
+  {
+    "de": "erneuerbare Energien",
+    "en": "renewable energy"
+  },
+  {
+    "de": "umweltschonend",
+    "en": "ecologically sensitive"
+  },
+  {
+    "de": "e Weltgemeinschaft",
+    "en": "international\ncommunity"
+  },
+  {
+    "de": "einer Belastung\nausgesetzt sein",
+    "en": "to be exposed to\nsomething"
+  },
+  {
+    "de": "s Korallenriff, -e",
+    "en": "coral reef"
+  },
+  {
+    "de": "nachweisen",
+    "en": "to prove"
+  },
+  {
+    "de": "r Bestandteil, -e",
+    "en": "component, part"
+  },
+  {
+    "de": "auslösen",
+    "en": "to trigger"
+  },
+  {
+    "de": "s Immunsystem",
+    "en": "immune system"
+  },
+  {
+    "de": "schlummern",
+    "en": "to slumber, rest"
+  },
+  {
+    "de": "sich vermehren",
+    "en": "to increase"
+  },
+  {
+    "de": "freisetzen",
+    "en": "to release"
+  },
+  {
+    "de": "sich infizieren",
+    "en": "to contract something"
+  },
+  {
+    "de": "einbüßen",
+    "en": "to lose"
+  },
+  {
+    "de": "ausbleichen",
+    "en": "to bleach"
+  },
+  {
+    "de": "e Ursache ausmachen",
+    "en": "to find the cause"
+  },
+  {
+    "de": "e Alge, -n",
+    "en": "algae"
+  },
+  {
+    "de": "e Spur, -en",
+    "en": "trace"
+  },
+  {
+    "de": "e Infektion, -en",
+    "en": "infection"
+  },
+  {
+    "de": "e Bewährungsprobe, -n",
+    "en": "practical test"
+  },
+  {
+    "de": "r Schadstoff, -e",
+    "en": "contaminant, toxin"
+  },
+  {
+    "de": "r Bestand, ¨ e",
+    "en": "population, stock"
+  },
+  {
+    "de": "verbindlich",
+    "en": "mandatory"
+  },
+  {
+    "de": "e Richtlinie, -n",
+    "en": "regulation, stipulation"
+  },
+  {
+    "de": "mitunter",
+    "en": "occassional"
+  },
+  {
+    "de": "eintreten",
+    "en": "to happen"
+  },
+  {
+    "de": "Nanopartikel",
+    "en": "nanoparticle"
+  },
+  {
+    "de": "einhergehen mit",
+    "en": "to coincide with"
+  },
+  {
+    "de": "zu schaffen machen",
+    "en": "to cause problems"
+  }
+]
