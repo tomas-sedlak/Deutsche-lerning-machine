@@ -1,8 +1,10 @@
 import tkinter as tk
 import json
 import random
+import time
 
 i=0
+start_time = time.time()
 
 data_path = 'data/b1_en_vocab.json'
 with open(data_path, 'r', encoding='utf-8') as f:
@@ -13,6 +15,13 @@ random.shuffle(data)
 
 
 limit = 100
+
+def update_timer():
+    elapsed_time = time.time() - start_time
+    minutes = int(elapsed_time // 60)
+    seconds = int(elapsed_time % 60)
+    timer_label.config(text=f"Zeit: {minutes:02d}:{seconds:02d}")
+    root.after(1000, update_timer)
 
 def mehr():
     global i
@@ -57,6 +66,8 @@ label2.place(relx=0.5, rely=0.6, anchor='center')
 label3 = tk.Label(text=f"{i}/{len(data)}", font=('Arial', 30))
 label3.place(relx=0.5, rely=0, anchor='n')
 
+timer_label = tk.Label(text="Zeit: 00:00", font=('Arial', 25))
+timer_label.place(relx=0, rely=0, anchor='nw')
 
    
 button = tk.Button(text='Mehr', font=('Arial', 30), command=mehr)
@@ -70,6 +81,8 @@ schliessen_button.place(relx=1, rely=0, anchor='ne')
 
 #menu_button = tk.Button(text='Menu', font=('Arial', 20), command=menu)
 
+# Start the timer
+update_timer()
 
    
 
