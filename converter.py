@@ -1,7 +1,7 @@
 import pdfplumber
 
 input_path = "data/Wortliste_4_en.pdf"
-output_path = "data/b1_en_vocab.json"
+output_path = "data/b1_en_vocab_new.json"
 
 lectures = []
 current_lecture = None
